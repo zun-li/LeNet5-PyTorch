@@ -69,6 +69,6 @@ LeNet5-PyTorch/
 
 **参考**：
 
-- 【Pytorch框架与经典卷积神经网络与实战】 https://www.bilibili.com/video/BV1e34y1M7wR
+- 【Pytorch框架与经典卷积神经网络与实战】https://www.bilibili.com/video/BV1e34y1M7wR
 - 【国立台湾大学：李宏毅机器学习】https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php
 
