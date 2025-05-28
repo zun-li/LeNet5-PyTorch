@@ -1,0 +1,100 @@
+--------------------------------------------------
+Epoch 1/20
+train loss: 0.6266 | val loss: 0.2589
+train acc : 0.7887 | val acc : 0.9218
+epoch time: 0m9s
+--------------------------------------------------
+Epoch 2/20
+train loss: 0.1895 | val loss: 0.1250
+train acc : 0.9417 | val acc : 0.9606
+epoch time: 0m18s
+--------------------------------------------------
+Epoch 3/20
+train loss: 0.1223 | val loss: 0.1137
+train acc : 0.9619 | val acc : 0.9654
+epoch time: 0m26s
+--------------------------------------------------
+Epoch 4/20
+train loss: 0.1007 | val loss: 0.0964
+train acc : 0.9681 | val acc : 0.9707
+epoch time: 0m35s
+--------------------------------------------------
+Epoch 5/20
+train loss: 0.0859 | val loss: 0.0801
+train acc : 0.9736 | val acc : 0.9757
+epoch time: 0m44s
+--------------------------------------------------
+Epoch 6/20
+train loss: 0.0756 | val loss: 0.0880
+train acc : 0.9763 | val acc : 0.9725
+epoch time: 0m53s
+--------------------------------------------------
+Epoch 7/20
+train loss: 0.0689 | val loss: 0.0801
+train acc : 0.9788 | val acc : 0.9754
+epoch time: 1m2s
+--------------------------------------------------
+Epoch 8/20
+train loss: 0.0639 | val loss: 0.0665
+train acc : 0.9799 | val acc : 0.9795
+epoch time: 1m10s
+--------------------------------------------------
+Epoch 9/20
+train loss: 0.0575 | val loss: 0.0621
+train acc : 0.9819 | val acc : 0.9806
+epoch time: 1m19s
+--------------------------------------------------
+Epoch 10/20
+train loss: 0.0526 | val loss: 0.0805
+train acc : 0.9841 | val acc : 0.9743
+epoch time: 1m28s
+--------------------------------------------------
+Epoch 11/20
+train loss: 0.0509 | val loss: 0.0615
+train acc : 0.9840 | val acc : 0.9807
+epoch time: 1m37s
+--------------------------------------------------
+Epoch 12/20
+train loss: 0.0479 | val loss: 0.0523
+train acc : 0.9839 | val acc : 0.9839
+epoch time: 1m46s
+--------------------------------------------------
+Epoch 13/20
+train loss: 0.0454 | val loss: 0.0551
+train acc : 0.9855 | val acc : 0.9828
+epoch time: 1m54s
+--------------------------------------------------
+Epoch 14/20
+train loss: 0.0423 | val loss: 0.0596
+train acc : 0.9863 | val acc : 0.9808
+epoch time: 2m3s
+--------------------------------------------------
+Epoch 15/20
+train loss: 0.0396 | val loss: 0.0536
+train acc : 0.9875 | val acc : 0.9840
+epoch time: 2m12s
+--------------------------------------------------
+Epoch 16/20
+train loss: 0.0384 | val loss: 0.0594
+train acc : 0.9879 | val acc : 0.9820
+epoch time: 2m21s
+--------------------------------------------------
+Epoch 17/20
+train loss: 0.0367 | val loss: 0.0552
+train acc : 0.9879 | val acc : 0.9832
+epoch time: 2m30s
+--------------------------------------------------
+Epoch 18/20
+train loss: 0.0360 | val loss: 0.0559
+train acc : 0.9884 | val acc : 0.9838
+epoch time: 2m39s
+--------------------------------------------------
+Epoch 19/20
+train loss: 0.0329 | val loss: 0.0555
+train acc : 0.9896 | val acc : 0.9828
+epoch time: 2m47s
+--------------------------------------------------
+Epoch 20/20
+train loss: 0.0342 | val loss: 0.0494
+train acc : 0.9890 | val acc : 0.9852
+epoch time: 2m56s
