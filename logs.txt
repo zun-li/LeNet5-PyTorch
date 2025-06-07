@@ -1,0 +1,200 @@
+--------------------------------------------------
+Epoch 1 / 40
+Train loss: 1.2077 | Val loss: 0.7521
+Train acc : 0.5360 | Val acc : 0.7100
+Epoch time: 0m10s
+--------------------------------------------------
+Epoch 2 / 40
+Train loss: 0.6894 | Val loss: 0.6361
+Train acc : 0.7299 | Val acc : 0.7519
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 3 / 40
+Train loss: 0.6016 | Val loss: 0.5744
+Train acc : 0.7637 | Val acc : 0.7768
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 4 / 40
+Train loss: 0.5507 | Val loss: 0.5641
+Train acc : 0.7858 | Val acc : 0.7777
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 5 / 40
+Train loss: 0.5169 | Val loss: 0.5290
+Train acc : 0.7993 | Val acc : 0.7875
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 6 / 40
+Train loss: 0.4887 | Val loss: 0.4936
+Train acc : 0.8114 | Val acc : 0.8133
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 7 / 40
+Train loss: 0.4631 | Val loss: 0.4684
+Train acc : 0.8240 | Val acc : 0.8217
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 8 / 40
+Train loss: 0.4393 | Val loss: 0.4327
+Train acc : 0.8346 | Val acc : 0.8413
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 9 / 40
+Train loss: 0.4191 | Val loss: 0.4097
+Train acc : 0.8459 | Val acc : 0.8479
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 10 / 40
+Train loss: 0.4029 | Val loss: 0.3905
+Train acc : 0.8515 | Val acc : 0.8570
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 11 / 40
+Train loss: 0.3896 | Val loss: 0.3868
+Train acc : 0.8562 | Val acc : 0.8588
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 12 / 40
+Train loss: 0.3752 | Val loss: 0.3935
+Train acc : 0.8612 | Val acc : 0.8568
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 13 / 40
+Train loss: 0.3651 | Val loss: 0.3773
+Train acc : 0.8654 | Val acc : 0.8604
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 14 / 40
+Train loss: 0.3557 | Val loss: 0.3614
+Train acc : 0.8678 | Val acc : 0.8672
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 15 / 40
+Train loss: 0.3458 | Val loss: 0.3614
+Train acc : 0.8714 | Val acc : 0.8688
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 16 / 40
+Train loss: 0.3383 | Val loss: 0.3541
+Train acc : 0.8741 | Val acc : 0.8711
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 17 / 40
+Train loss: 0.3316 | Val loss: 0.3482
+Train acc : 0.8780 | Val acc : 0.8725
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 18 / 40
+Train loss: 0.3242 | Val loss: 0.3329
+Train acc : 0.8803 | Val acc : 0.8795
+Epoch time: 0m10s
+--------------------------------------------------
+Epoch 19 / 40
+Train loss: 0.3180 | Val loss: 0.3510
+Train acc : 0.8820 | Val acc : 0.8711
+Epoch time: 0m10s
+--------------------------------------------------
+Epoch 20 / 40
+Train loss: 0.3120 | Val loss: 0.3395
+Train acc : 0.8845 | Val acc : 0.8771
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 21 / 40
+Train loss: 0.3049 | Val loss: 0.3280
+Train acc : 0.8863 | Val acc : 0.8828
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 22 / 40
+Train loss: 0.3008 | Val loss: 0.3233
+Train acc : 0.8887 | Val acc : 0.8820
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 23 / 40
+Train loss: 0.2958 | Val loss: 0.3409
+Train acc : 0.8899 | Val acc : 0.8778
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 24 / 40
+Train loss: 0.2924 | Val loss: 0.3290
+Train acc : 0.8908 | Val acc : 0.8806
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 25 / 40
+Train loss: 0.2855 | Val loss: 0.3381
+Train acc : 0.8947 | Val acc : 0.8751
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 26 / 40
+Train loss: 0.2833 | Val loss: 0.3168
+Train acc : 0.8959 | Val acc : 0.8871
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 27 / 40
+Train loss: 0.2766 | Val loss: 0.3161
+Train acc : 0.8967 | Val acc : 0.8877
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 28 / 40
+Train loss: 0.2723 | Val loss: 0.3109
+Train acc : 0.8981 | Val acc : 0.8906
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 29 / 40
+Train loss: 0.2682 | Val loss: 0.3067
+Train acc : 0.9008 | Val acc : 0.8882
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 30 / 40
+Train loss: 0.2626 | Val loss: 0.3057
+Train acc : 0.9026 | Val acc : 0.8921
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 31 / 40
+Train loss: 0.2618 | Val loss: 0.2989
+Train acc : 0.9022 | Val acc : 0.8944
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 32 / 40
+Train loss: 0.2566 | Val loss: 0.3028
+Train acc : 0.9056 | Val acc : 0.8951
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 33 / 40
+Train loss: 0.2525 | Val loss: 0.3030
+Train acc : 0.9064 | Val acc : 0.8943
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 34 / 40
+Train loss: 0.2495 | Val loss: 0.2992
+Train acc : 0.9068 | Val acc : 0.8940
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 35 / 40
+Train loss: 0.2442 | Val loss: 0.3232
+Train acc : 0.9085 | Val acc : 0.8857
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 36 / 40
+Train loss: 0.2411 | Val loss: 0.3190
+Train acc : 0.9092 | Val acc : 0.8843
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 37 / 40
+Train loss: 0.2376 | Val loss: 0.3000
+Train acc : 0.9106 | Val acc : 0.8958
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 38 / 40
+Train loss: 0.2336 | Val loss: 0.3075
+Train acc : 0.9130 | Val acc : 0.8908
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 39 / 40
+Train loss: 0.2342 | Val loss: 0.3084
+Train acc : 0.9132 | Val acc : 0.8909
+Epoch time: 0m9s
+--------------------------------------------------
+Epoch 40 / 40
+Train loss: 0.2276 | Val loss: 0.3079
+Train acc : 0.9153 | Val acc : 0.8930
+Epoch time: 0m9s
